@@ -22,6 +22,7 @@ file_path = "test.txt"  # path to your file
 counts = count_words(file_path)
 fig = plot_words(counts, n=10)
 plt.show()
+```
 
 ## Contributing
 
